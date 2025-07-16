@@ -1,6 +1,6 @@
 # Project related DOM
 ## PROJECT LINK
-[click here] (https://stackblitz.com/edit/vitejs-vite-69wgmbrv?file=index.html,project1.js,index.css)
+[click here] (https://stackblitz.com/~/github.com/MansiButola1234/vitejs-vite-69wgmbrv)
  
  #solution code 
  ##Project 1
