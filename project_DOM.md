@@ -1,6 +1,6 @@
 # Project related DOM
 ## PROJECT LINK
-[click here] (https://stackblitz.com/~/github.com/MansiButola1234/vitejs-vite-69wgmbrv)
+[click here] (https://stackblitz.com/edit/dom-proect-yxhu14dq?file=index.html)
  
  #solution code 
  ##Project 1
